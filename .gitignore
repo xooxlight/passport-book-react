@@ -1,0 +1,15 @@
+# 의존성 폴더
+node_modules/
+
+# 빌드 결과물
+dist/
+build/
+
+# 로그 파일
+*.log
+
+# 환경 변수 및 민감 정보
+.env
+
+# macOS 시스템 파일
+.DS_Store
